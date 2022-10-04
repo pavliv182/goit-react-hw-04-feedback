@@ -1,11 +1,11 @@
 import PropTypes from 'prop-types';
 
 const Statistics = ({ good, neutral, bad, total, positivePercentage }) => {
-  console.log(total);
-  console.log(good);
-  console.log(neutral);
-  console.log(bad);
-  console.log(positivePercentage);
+  // console.log(total);
+  // console.log(good);
+  // console.log(neutral);
+  // console.log(bad);
+  // console.log(positivePercentage);
 
   return (
     <div>
